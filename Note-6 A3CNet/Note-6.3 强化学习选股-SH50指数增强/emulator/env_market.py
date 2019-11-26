@@ -50,6 +50,7 @@ for i in universe:
 
 fac_array = []
 for i in range(202):
+    #1d = 4h = 16 * 15min bar
     j = i * 16 + 351
     fac = []
     for k in universe:
